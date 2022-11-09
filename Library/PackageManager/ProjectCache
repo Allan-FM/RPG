@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638034286633770221
-    m_Hash: 2028999242
+      ticks: 638035508850172384
+    m_Hash: 3086396554
   m_LockFileStatus:
     m_FilePath: D:/github.com/RPG/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638034286634159374
-    m_Hash: 491430253
+      ticks: 638035508850172384
+    m_Hash: 1519136636
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
