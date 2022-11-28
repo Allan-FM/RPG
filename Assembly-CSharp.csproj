@@ -37,8 +37,9 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Runtime\Game\Scripts\Core\FollowCamera.cs" />
+     <Compile Include="Assets\Runtime\Game\Scripts\Player\PlayerController.cs" />
      <Compile Include="Assets\Runtime\Game\Scripts\Core\GameTags.cs" />
-     <Compile Include="Assets\Runtime\Game\Scripts\Player\Mover.cs" />
+     <Compile Include="Assets\Runtime\Game\Scripts\Core\Mover.cs" />
      <None Include="Assets\Asset Packs\Synty - Polygon Student Sample\README - Usage Rights for these assets.txt" />
     <Reference Include="UnityEngine">
         <HintPath>D:/Unity/2021.1.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -276,6 +277,12 @@
     </Reference>
     <Reference Include="Newtonsoft.Json">
         <HintPath>D:/github.com/RPG/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+        <HintPath>D:/Unity/2021.1.12f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+        <HintPath>D:/Unity/2021.1.12f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>D:/Unity/2021.1.12f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

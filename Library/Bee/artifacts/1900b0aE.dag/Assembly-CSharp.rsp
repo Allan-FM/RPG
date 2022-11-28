@@ -302,6 +302,8 @@
 -r:"D:/Unity/2021.1.12f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Numerics.Vectors.dll"
 -r:"D:/Unity/2021.1.12f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"D:/Unity/2021.1.12f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll"
+-r:"D:/Unity/2021.1.12f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
+-r:"D:/Unity/2021.1.12f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.ref.dll"
@@ -321,7 +323,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
 "Assets/Runtime/Game/Scripts/Core/FollowCamera.cs"
 "Assets/Runtime/Game/Scripts/Core/GameTags.cs"
-"Assets/Runtime/Game/Scripts/Player/Mover.cs"
+"Assets/Runtime/Game/Scripts/Core/Mover.cs"
+"Assets/Runtime/Game/Scripts/Player/PlayerController.cs"
 -langversion:8.0
 
 /deterministic
